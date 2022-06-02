@@ -43,6 +43,9 @@ def show_posts(posts=[], user=None):
                             p(par)
                 else: # image post
                     with div():
+                    +0hiuprsh´ra09qapsomøox¨ån
+                     98f v5i å+0hfiopzæue d09ja<oælkmdjawksh znwfioa<io´
+                      eåodxpd
                         img(src=app.url_for('static',
                                             name='static',
                                             filename=f'images/posts/{display_post.post.image_path}'))
